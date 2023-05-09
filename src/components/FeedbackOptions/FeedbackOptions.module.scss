@@ -1,0 +1,16 @@
+.list {
+  display: flex;
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+  gap: 15px;
+
+  .button {
+    background-color: #fff;
+    border-radius: 5px;
+    border: 1px solid black;
+    font-size: 18px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    cursor: pointer;
+  }
+}
